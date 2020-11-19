@@ -24,7 +24,7 @@
 		<log4j.version>1.2.17</log4j.version>
 		<junit.version>4.12</junit.version>
 		<elasticsearch.version>2.0.0</elasticsearch.version>
-		<quartz.version>2.2.1</quartz.version>
+		<quartz.version>2.3.2</quartz.version>
 		<jdbc.driver.groupId>mysql</jdbc.driver.groupId>
 		<jdbc.driver.artifactId>mysql-connector-java</jdbc.driver.artifactId>
 		<jdbc.driver.version>5.1.34</jdbc.driver.version>
