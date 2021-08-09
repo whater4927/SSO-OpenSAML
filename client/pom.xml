@@ -23,7 +23,7 @@
 		<slf4j.version>1.7.9</slf4j.version>
 		<log4j.version>1.2.17</log4j.version>
 		<junit.version>4.12</junit.version>
-		<elasticsearch.version>2.0.0</elasticsearch.version>
+		<elasticsearch.version>6.8.17</elasticsearch.version>
 		<quartz.version>2.2.1</quartz.version>
 		<jdbc.driver.groupId>mysql</jdbc.driver.groupId>
 		<jdbc.driver.artifactId>mysql-connector-java</jdbc.driver.artifactId>
